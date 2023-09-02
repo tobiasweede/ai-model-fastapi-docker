@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+uvicorn[standard]
+fastapi
+python-multipart
