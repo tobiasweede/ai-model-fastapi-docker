@@ -88,3 +88,11 @@ Open the docs and click on `Try it out` &rarr; `Browse...` and select the digit 
   <summary>The answer because this happens:</summary>
    The trained data the background is black, and we're try predicting a image that is out of distribution. You can read more here: <a href="https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html"> 4.7. Environment and Distribution Shift</a>
 </details>
+
+---
+<div align="center">
+  <strong>"PEOPLE'S DREAMS WILL NEVER END" - OP</strong>
+</div>
+<p align="center">
+  <sub>Created by BrenoAV</sub>
+</p>
